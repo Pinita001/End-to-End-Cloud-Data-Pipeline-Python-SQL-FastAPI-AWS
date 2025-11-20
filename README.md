@@ -22,7 +22,7 @@ A cloud-ready analytics system featuring an ETL pipeline, forecasting API, and i
 
 ## 📡 Architecture Overview
 
-![Uploading Screenshot 2025-11-20 at 8.37.31 PM.png…]()
+<img width="850" height="699" alt="Screenshot 2025-11-20 at 8 37 31 PM" src="https://github.com/user-attachments/assets/d5d6d3ce-7bbe-4248-bd7f-f3946782e0ad" />
 
 **_System architecture of the Cloud-Based Sales Intelligence Platform. Azure Functions handle data ingestion, FastAPI manages processing, and Streamlit powers the analytics dashboard._**
 
