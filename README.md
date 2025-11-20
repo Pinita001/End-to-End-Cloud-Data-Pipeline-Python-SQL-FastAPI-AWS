@@ -1,4 +1,4 @@
-# 📘 End-to-End Cloud Data Pipeline (Python, SQL, FastAPI, Azure)
+# 📘 End-to-End Cloud Data Pipeline (Python, SQL, FastAPI, AWS)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue" />
@@ -8,9 +8,6 @@
   <img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />
 </p>
 ---
-
-# 📘 End-to-End Cloud Data Pipeline (Python, SQL, FastAPI, AWS)
-
 ## 🚀 Overview
 
 This project is an end-to-end, cloud-ready data pipeline designed to simulate a real enterprise analytics workflow. It integrates Python-based ETL processing, SQL transformations, a FastAPI backend, and an interactive Streamlit analytics dashboard.
