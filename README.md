@@ -13,6 +13,8 @@
 
 This project is an **end-to-end cloud-ready data pipeline** designed to simulate a real enterprise analytics workflow. It integrates **Python-based ETL**, **SQL transformations**, **FastAPI backend services**, and a **Streamlit analytics dashboard**, all prepared for **Azure cloud deployment**.
 
+This project demonstrates my ability to build production-minded data pipelines suitable for analytics workflows, cloud deployment, and real-time dashboarding at scale.
+
 ## ⭐ Features
 
 ### ✅ Implemented
